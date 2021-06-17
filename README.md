@@ -12,15 +12,6 @@ Roll no. - 1900300100003
 * Learnt about installation of Python
 * Printed Hello World using Python
 
----
-
-<!-- OL -->
-##  [Module 2 : ](https://github.com/Abhinittiwari7/SigPython_Task/tree/main/Module_2)
-<!-- UL -->
-* Learnt about Python Syntax
-* Learnt about variables
-* Learnt about various datatypes and operators in Python
-
 --- 
 
 <!-- OL -->
