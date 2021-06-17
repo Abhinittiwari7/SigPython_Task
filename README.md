@@ -7,7 +7,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-## [Module 1 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module1)
+## [Module 1 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module1)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about installation of Python
@@ -16,7 +16,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-##  [Module 2 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module2)
+##  [Module 2 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module2)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Python Syntax
@@ -26,7 +26,7 @@ Roll no. - 1900300100003
 --- 
 
 <!-- OL -->
-##  [Module 3 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module3)
+##  [Module 3 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module3)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about conditional statements
@@ -35,7 +35,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-##  [Module 4 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module4)
+##  [Module 4 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module4)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt to take input form the user in Python
@@ -45,7 +45,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-##  [Module 5 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module5)
+##  [Module 5 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module5)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Strings in Python
@@ -54,7 +54,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-##  [Module 6 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module6)
+##  [Module 6 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module6)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Dictionary in Python
@@ -63,7 +63,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-##  [Module 7 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module7)
+##  [Module 7 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module7)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about User Defined Functions in Python
@@ -73,7 +73,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-##  [Module 8 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module8)
+##  [Module 8 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module8)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Lists and Dictionary in Python
@@ -82,7 +82,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-##  [Module 9 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module9)
+##  [Module 9 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module9)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about File Handling in Python
@@ -90,7 +90,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-##  [Module 10 : ](https://github.com/Abhinittiwari7/SigPython_task.git/tree/main/Module10)
+##  [Module 10 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module10)
 ## Python Topics Learnt
 <!-- UL -->
 * Learnt about Classes and Objects in Python
