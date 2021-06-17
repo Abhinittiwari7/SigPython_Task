@@ -7,7 +7,7 @@ Roll no. - 1900300100003
 ---
 
 <!-- OL -->
-## [Module 1 : ](https://github.com/Abhinittiwari7/SigPython_Task/tree/main/Module%201)
+## [Module 1 : ](https://github.com/Abhinittiwari7/SigPython_Task.git/tree/main/Module_1)
 <!-- UL -->
 * Learnt about installation of Python
 * Printed Hello World using Python
